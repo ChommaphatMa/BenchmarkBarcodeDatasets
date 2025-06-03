@@ -17,4 +17,5 @@ Each dataset is annotated with ground-truth barcode bounding boxes and class lab
 
 # Citation
 If you use this dataset in your research, please cite:
+
 Kamnardsiri, T., Charoenkwan, P., Malang, C., & Wudhikarn, R. (2022). 1D barcode detection: Novel benchmark datasets and comprehensive comparison of deep convolutional neural network approaches. Sensors, 22(22), 8788.
